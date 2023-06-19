@@ -1,6 +1,7 @@
 <script setup>
 import HeaderVue from "./components/HeaderVue.vue";
 import HeroVue from "./components/HeroVue.vue";
+import InfoVue from "./components/InfoVue.vue";
 import FooterVue from "./components/FooterVue.vue";
 </script>
 
@@ -9,6 +10,7 @@ import FooterVue from "./components/FooterVue.vue";
     <HeaderVue />
     <main>
       <HeroVue />
+      <InfoVue />
     </main>
     <FooterVue />
   </div>

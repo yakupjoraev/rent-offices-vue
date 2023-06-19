@@ -31,6 +31,7 @@
 <style scoped lang="scss">
 .header {
   padding-top: 80px;
+  padding-bottom: 40px;
   background-color: transparent;
 }
 .nav {
